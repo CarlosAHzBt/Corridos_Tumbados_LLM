@@ -21,7 +21,7 @@ El proceso incluye **web scraping** de sitios de letras de canciones para recole
 ### Clona el repositorio:
 
 ```bash
-git clone https://github.com/usuario/Corridos_Tumbados_LLM.git
+git clone git clone https://github.com/usuario/Corridos_Tumbados_LLM.git
 cd Corridos_Tumbados_LLM
 ```
 
